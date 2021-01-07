@@ -3,7 +3,7 @@
 Nós não nos importamos se você quebra as coisas. Este é um playground e nós incentivamos o fracasso com freqüência. Use isto como um campo de prática e aproveite para contribuir com projetos que você cria com seus colegas estudantes. Muitos estudantes adquiriram experiência do mundo real "trabalhando em equipe" ao trabalhar nesses projetos.
 
 
-## A Guide to Get Started
+## Um guia para começar
 
 1. Leiam o maravilhoso [_gitStarted Guia](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) de um colega da ZTM  [@wanraitelli](https://github.com/wanraitelli).
 
