@@ -28,18 +28,18 @@ Nós não nos importamos se você quebra as coisas. Este é um playground e nós
     Leia mais sobre [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) e [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 
-4.  Antes de vocÇe fazer qualquer alteração , [ mantenha seu fork sincronizado](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) para evitar conflitos "merge" our "merge conflict":
+4.  Antes de você fazer qualquer alteração , [ mantenha seu fork sincronizado](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) para evitar conflitos "merge" our "merge conflict":
 
     ```bash
     git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
     git pull upstream master
     ```
 
-    Se você estiver com um **merge conflict**, você deve resolve-lo .  Pesquise como resolvelo ou tente este guia ; [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
+    Se você estiver com um **merge conflict**, você deve resolve-lo .  Pesquise como resolve-lo ou tente este guia ; [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
 
 5. No seu computador , abra seu editor de texto , e adicione seu nome de usuario  ao arquivo `CONTRIBUTORS.md` .
 
-6.  Adicione as alterações com os comandos `git add`, `git commit` ([escreva um bom comentario de "commit"](https://chris.beams.io/posts/git-commit/), se possivel (obs: o link esta com conteudo en ingles.)):
+6.  Adicione as alterações com os comandos `git add`, `git commit` ([escreva um bom comentario de "commit"](https://chris.beams.io/posts/git-commit/), se possivel (obs: o link esta com conteudo em ingles.)):
 
     ```bash
     git add CONTRIBUTORS.md
@@ -60,11 +60,11 @@ Nós não nos importamos se você quebra as coisas. Este é um playground e nós
 
      Leia mais sobre  "pull requests " no site [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-9. Espere ate que um dos moderadores  "merges" seu "pull request" . Vamos informa-lo se houver algum conflito.
+9. Espere ate que um dos moderadores anexe "merge" seu "pull request" . Vamos informa-lo se houver algum conflito.
 
-10. Junte-se a um projeto e comece a contribuir ou crie seu proprio  grupo our aplicativo. Não seja timido e aproveite desenvolver em equipe.  Caso queira outras opções de projetos Open source , não deixe de verificar a [Zero to Mastery](https://github.com/zero-to-mastery).  [Veja esse guia ](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) para mais informações ao escolher um projeto (PS: pertence ao ZTM e está em ingles).
+10. Junte-se a um projeto e comece a contribuir ou crie seu proprio  grupo ou aplicativo. Não seja timido e aproveite desenvolver em equipe.  Caso queira outras opções de projetos Open source , não deixe de verificar a [Zero to Mastery](https://github.com/zero-to-mastery).  [Veja esse guia ](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) para mais informações ao escolher um projeto (PS: pertence ao ZTM e está em ingles).
 
-11. Para ver o icone SENAI FATEC Developer ou  Zero to Mastery  no seu perfil do GitHub, [siga esses passos](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (você deve completar o passo 1 e dois para funcionar).
+11. Para ver o icone SENAI FATEC Developer ou  Zero to Mastery  no seu perfil do GitHub, [siga esses passos](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (você deve completar o passo 1 e 2 para funcionar).
 
 ## Anatomia de um projeto de código aberto:
 
