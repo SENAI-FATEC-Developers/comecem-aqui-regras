@@ -25,7 +25,7 @@ Nós não nos importamos se você quebra as coisas. Este é um playground e nós
 
     **Troque \<your-github-username\>!**
 
-    Leia mais sobre[forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) e [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+    Leia mais sobre [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) e [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 
 4.  Antes de vocÇe fazer qualquer alteração , [ mantenha seu fork sincronizado](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) para evitar conflitos "merge" our "merge conflict":
